@@ -1,4 +1,4 @@
-# pandita_shriya_002747729
+#  Hospital Management System
 
 INFO 5100 Assignment 2 - Hospital Management System
 
